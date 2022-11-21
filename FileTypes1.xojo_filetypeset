@@ -1,16 +1,16 @@
 #tag FileTypeSet
 	#tag FileType
-		CodeName=Text
+		CodeName=CSV
 		DocIcon=Jabby.xojo_resources;&h0
-		Extension=
+		Extension=csv
 		Flags=&h0
 		MacCreator=????
 		MacType=ttxt
-		Name=text
+		Name=CSV
 		UTI=
-		UTIConformsTo=,public.data
+		UTIConformsTo=, public.data
 		Description=
-		MimeType=
+		MimeType=text/csv
 		Imported=True
 		HandlerRank=&h9
 		UTIPhysicalType=public.data
